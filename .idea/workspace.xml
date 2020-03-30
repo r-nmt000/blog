@@ -50,11 +50,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584966586476</updated>
-      <workItem from="1584966588753" duration="7089000" />
+      <workItem from="1584966588753" duration="10124000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="500" height="445" key="SwitcherDM" timestamp="1585577984720">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/-1440.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1585577984720" />
   </component>
 </project>
