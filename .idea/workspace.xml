@@ -7,6 +7,7 @@
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/PostList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UserHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UserHeader.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/reducers/postsReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/postsReducer.js" afterDir="false" />
@@ -51,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584966586476</updated>
-      <workItem from="1584966588753" duration="11852000" />
+      <workItem from="1584966588753" duration="13146000" />
     </task>
     <servers />
   </component>
@@ -63,6 +64,10 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="500" height="445" key="SwitcherDM/-1440.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1585659724962" />
+    <state x="960" y="367" width="639" height="729" key="find.popup" timestamp="1585660865210">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="960" y="367" width="639" height="729" key="find.popup/-1440.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1585660865210" />
     <state x="945" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1585659812412">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
